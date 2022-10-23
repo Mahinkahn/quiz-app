@@ -1,0 +1,12 @@
+.option-btns {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 12px;
+}
+
+@media only screen and (min-width: 768px) {
+    .option-btns {
+        grid-template-columns: repeat(2, 1fr);
+        gap: 12px;
+    }
+}
