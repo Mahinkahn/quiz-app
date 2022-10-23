@@ -8,7 +8,7 @@ const QuizChart = () => {
     // console.log(quizs);
     return (
         <div className=' m-auto my-5'>
-            <h2 className='my-5'>Total Quiz</h2>
+            <h2 className='my-5'>Total </h2>
             <ResponsiveContainer width="90%" aspect={4}>
                 <LineChart data={quizs} >
                     <CartesianGrid />
