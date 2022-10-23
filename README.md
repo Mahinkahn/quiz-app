@@ -1,6 +1,6 @@
-Website Name :- Quiz Master
+Website Name :- Quiz & Ans
 
-Live WebSite :- https://quiz-master123.netlify.app/
+Live WebSite :- https://friendly-hamster-a7f371.netlify.app/
 
 Our features:-
 
